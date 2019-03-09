@@ -2,7 +2,6 @@
 <Context
   reloadable="true"
   displayName="Langrid Composite Services"
-  docBase="/srv/langrid/webapps/langrid-composite-service"
 >
     <Parameter name="langrid.coreNodeUrl" value="http://localhost:8080/service_manager/" />
     <Parameter name="langrid.appAuthKey" value="" />
